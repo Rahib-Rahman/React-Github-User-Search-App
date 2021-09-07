@@ -1,3 +1,10 @@
+# Github User Search App (React.js)
+A React Js Project to Search Github Users and View their Profiles & Details
+
+### Live Link
+This project is Hosted in Github
+Live Link : https://rahib-rahman.github.io/React-Github-User-Search-App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+
