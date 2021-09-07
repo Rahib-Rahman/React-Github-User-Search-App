@@ -1,4 +1,4 @@
-# Github User Search App (React.js)
+# Github User Search App (React Js)
 A React Js Project to Search Github Users and View their Profiles & Details
 
 ### Live Link
